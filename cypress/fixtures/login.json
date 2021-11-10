@@ -1,0 +1,15 @@
+{
+  "correoRegistroExitoso1": "juanduarte986@gmail.com",
+  "correoRegistroExitoso2": "juanduarte993@gmail.com",
+  "correoLoginFallido": "juanduarte997FALLIDO@gmail.com",
+  "nombre": "Marcos",
+  "apellido": "Ramirez",
+  "clave": "Mramirez123",
+  "direccion": "CR",
+  "ciudad": "SJ",
+  "telefono": "50688991122",
+  "estado": "Alabama",
+  "zip": "00000",
+  "zipFallido": "000000",
+  "zipFallidoMensaje": "It must follow this format: 00000"
+}
